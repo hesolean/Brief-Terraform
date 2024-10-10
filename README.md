@@ -67,7 +67,7 @@ Clonez ce dépôt sur votre machine locale.
 
 bash
 
-    git clone 
+    git clone https://github.com/hesolean/Brief-Terraform.git
 
 2. Initialisez Terraform dans le répertoire du projet :
 
